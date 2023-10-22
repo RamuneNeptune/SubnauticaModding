@@ -9,7 +9,6 @@
 3. Make sure you have a program to handle zip files like [7-Zip](https://7-zip.org/) or [WinRAR](https://www.rarlab.com/download.htm) installed, then right click the zip file and select 'Extract here'
 4. Launch the game, if you get a console window that pops up then you've done everything correctly
 
-
 ## **Step 2** >> Install whatever mods you want, assuming they're for BepInEx
 - QModManager does **NOT** work on latest Subnautica, it is **NOT** used *unless* you are on legacy Subnautica
 - Use the installation instructions provided by the mod to ensure you are installing it correctly. 
